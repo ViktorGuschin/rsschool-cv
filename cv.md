@@ -36,3 +36,12 @@ Support for enterprise LAN and workstations (Windows).
 ##### Visuteh System
 
 Support for enterprise LAN and workstations (Windows, Linux(Debian)).
+
+## Education
+
+Software Ingineer
+2010 - 2012
+Institute for Advanced Studies and Retraining of managers and industry specialists
+Information technology, software computing and automated systems
+
+English A2
