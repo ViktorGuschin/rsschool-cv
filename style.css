@@ -1,0 +1,68 @@
+body {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #2d3739;
+}
+
+header {
+  display: flex;
+  justify-content: space-evenly;
+  height: 30%;
+}
+
+main {
+  position: relative;
+  height: 70%;
+  font-size: 16px;
+  background-color: #fff;
+}
+
+img {
+  clip-path: circle(130px);
+}
+
+main h3 {
+  position: relative;
+  color: #37b5a7;
+}
+
+main h3::before {
+  content: '';
+  position: absolute;
+  top: 30px;
+  width: 100%;
+  border: 1px solid #37b5a7;
+}
+
+main p {
+  color: #2d3739;
+}
+
+.contacts {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.contacts ul {
+  list-style: none;
+}
+
+.contacts ul li {
+  margin: 5px;
+}
+
+.contacts ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+code {
+  font-family: 'Courier New', 'Courier', monospace;
+  color: #6a2cce;
+}
