@@ -15,3 +15,24 @@ Result-orientired software ingeneer with experiance building applications. Seeki
 - JQuery
 - PostgreSQL
 - git (GitHub, GitLab)
+
+## Experience
+
+### System administrator
+
+#### 2013 - Present
+
+##### "Bittechnoservice" LTD
+
+Support for enterprise LAN and workstations (Windows).
+
+- Development and maintenance of internal activity accounting system (PHP, JQuery, PostgreSql)
+- Developed system sending SMS informarion to company clients (Delphi)
+
+### System administrator
+
+#### 2010 - 2012
+
+##### Visuteh System
+
+Support for enterprise LAN and workstations (Windows, Linux(Debian)).
